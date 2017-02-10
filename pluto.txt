@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 no dogs there
-=======
-test
->>>>>>> 45832aa0999096a9487a93939daaa2a762d563ba
